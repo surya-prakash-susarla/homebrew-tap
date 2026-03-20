@@ -11,8 +11,8 @@
 # Generate sha256 with: shasum -a 256 FloatingClock.zip
 
 cask "floating-clock" do
-  version "2.1.0"
-  sha256 "1ac0e8e7a93eaa5d81764b664c5a7da92ed67c2e8c36d8584438b8b469672a3d"
+  version "2.1.1"
+  sha256 "87a18ef9cc28e5316ce0d1f3940924a78f62ab2d7f765144b52fe4902a1042ca"
 
   url "https://github.com/surya-prakash-susarla/OnScreenClock/releases/download/v#{version}/FloatingClock.zip"
   name "Floating Clock"
